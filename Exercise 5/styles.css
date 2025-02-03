@@ -5,13 +5,13 @@ body {
     text-align: center;
     align-content: center;
     margin-top: 50px;
-    background-color: #f4f4f9;
+    background-color: #a9a9f6;
 }
 #quoteDisplay {
     margin: 20px 0; 
     font-size: 1.5em;
     color: #333;
-}
+}   
 #author {
     font-style: italic;
     color: #555;
@@ -27,4 +27,15 @@ button {
 }
 button:hover {
     background-color: #0056b3;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-content: center;
+}
+
+.button{
+
 }
