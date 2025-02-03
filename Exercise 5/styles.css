@@ -4,6 +4,7 @@ body {
     flex-direction: column;
     text-align: center;
     align-content: center;
+    justify-content: center;
     margin-top: 50px;
     background-color: #a9a9f6;
 }
@@ -27,15 +28,4 @@ button {
 }
 button:hover {
     background-color: #0056b3;
-}
-
-div{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    align-content: center;
-}
-
-.button{
-
 }
